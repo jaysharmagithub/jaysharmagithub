@@ -3,7 +3,7 @@
 - 🌱 I’m open to work in front-end/back-end/full-stack technologies/software engineering/software-development/Data Science
 - I believe that Learning never exhausts the mind 
 - 💞️ I’m looking to collaborate on front-end/back-end/full-stack technologies/software engineering/software-development/Data Science
-- 📫 How to reach me through linkedin or straight away via +91 7248914194
+- 📫 How to reach me through linkedin
 
 <!---
 jaysharmagithub/jaysharmagithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
